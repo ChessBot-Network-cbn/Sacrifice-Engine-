@@ -1,0 +1,7 @@
+[package]
+name = "Sacrifice-Engine"
+version = "0.2.0"
+edition = "2021"
+
+[dependencies]
+chess = "3.2"
